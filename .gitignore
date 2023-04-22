@@ -1,0 +1,12 @@
+./node_modules
+/node_modules
+
+.env
+/log
+/logs
+.dev.binh.md
+/logs
+/.idea
+/data.test.js
+/loggerWinston
+/loggerError
